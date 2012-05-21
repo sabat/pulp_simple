@@ -5,8 +5,8 @@ require File.expand_path('../lib/pulp_simple/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.name          = "pulp_simple"
   gem.version       = PulpSimple::VERSION
-  gem.summary       = %q{TODO: Summary}
-  gem.description   = %q{TODO: Description}
+  gem.summary       = %q{Simple wrapper around Fedora Pulp REST API}
+  gem.description   = %q{Simple wrapper around Fedora Pulp REST API}
   gem.license       = "MIT"
   gem.authors       = ["sabatangle"]
   gem.email         = [nil]
