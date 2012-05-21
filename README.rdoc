@@ -1,0 +1,26 @@
+= pulp_simple
+
+* {Homepage}[https://rubygems.org/gems/pulp_simple]
+* {Documentation}[http://rubydoc.info/gems/pulp_simple/frames]
+
+== Description
+
+TODO: Description
+
+== Features
+
+== Examples
+
+  require 'pulp_simple'
+
+== Requirements
+
+== Install
+
+  $ gem install pulp_simple
+
+== Copyright
+
+Copyright (c) 2012 sabatangle
+
+See LICENSE.txt for details.
