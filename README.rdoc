@@ -1,11 +1,8 @@
 = pulp_simple
 
-* {Homepage}[https://rubygems.org/gems/pulp_simple]
-* {Documentation}[http://rubydoc.info/gems/pulp_simple/frames]
-
 == Description
 
-TODO: Description
+Simple wrapper around Fedora's Pulp server REST API.
 
 == Features
 
@@ -21,6 +18,6 @@ TODO: Description
 
 == Copyright
 
-Copyright (c) 2012 sabatangle
+Copyright (c) 2012 Steve Abatangle. All Rights Reserved.
 
 See LICENSE.txt for details.
