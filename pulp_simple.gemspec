@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.summary       = %q{Simple wrapper around Fedora Pulp REST API}
   gem.description   = %q{Simple wrapper around Fedora Pulp REST API}
   gem.license       = "MIT"
-  gem.authors       = ["sabatangle"]
-  gem.email         = [nil]
-  gem.homepage      = #<URI::HTTPS:0x000000027b2378 URL:https://rubygems.org/gems/pulp_simple>
+  gem.authors       = ["Steve Abatangle"]
+  gem.email         = ['sabat@area51.org']
+  gem.homepage      = nil
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
